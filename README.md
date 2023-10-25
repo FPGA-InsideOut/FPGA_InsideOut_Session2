@@ -1,5 +1,6 @@
 # FPGA_InsideOut_Session2
 FIFO design, modelling, verification
+
 To do excersizes in Session2, get hdlgadgets from:
 
 https://github.com/FPGA-InsideOut/hdlgadgets
